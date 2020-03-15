@@ -1,1 +1,1 @@
-# pms
+# Placement Management System
